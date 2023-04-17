@@ -1,0 +1,11 @@
+JAVADIR=
+JARNAME=po-uilib
+
+all:
+	(cd src; javac -encoding UTF-8 `find . -name \*.java`)
+	(cd src; jar cf ../$(JARNAME).jar `find . -name \*.class -o -name \*.java`)
+	$(RM) `find . -name \*.class`
+
+clean:
+	$(RM) $(JARNAME).jar `find . -name \*.class`
+

@@ -1,0 +1,22 @@
+/ClientNotificationsAlreadyDisabled.java/1.1/Sun Oct 23 12:02:55 2022//
+/ClientNotificationsAlreadyEnabled.java/1.1/Sun Oct 23 12:02:57 2022//
+/CommunicationUnsupportedAtDestination.java/1.1/Sun Oct 30 20:06:59 2022//
+/CommunicationUnsupportedAtOrigin.java/1.1/Sun Oct 30 20:06:59 2022//
+/DestinationTerminalIsBusy.java/1.1/Sun Oct 30 20:06:59 2022//
+/DestinationTerminalIsOff.java/1.1/Sun Oct 30 20:06:59 2022//
+/DestinationTerminalIsSilent.java/1.1/Sun Oct 30 20:06:59 2022//
+/DuplicateClientKeyException.java/1.1/Sun Oct 16 22:30:45 2022//
+/DuplicateTerminalKeyException.java/1.1/Sun Oct 16 22:30:45 2022//
+/ImportFileException.java/1.2/Thu Oct 20 22:56:26 2022//
+/InvalidCommunicationKey.java/1.1/Sun Oct 30 22:45:10 2022//
+/InvalidTerminalKeyException.java/1.2/Thu Oct 20 22:56:26 2022//
+/MissingFileAssociationException.java/1.1/Wed Sep 14 16:51:38 2022//
+/NoOngoingCommunication.java/1.1/Sun Oct 30 20:06:59 2022//
+/TerminalStateAlreadyOff.java/1.1/Fri Oct 28 21:03:50 2022//
+/TerminalStateAlreadyOn.java/1.1/Fri Oct 28 21:03:50 2022//
+/TerminalStateAlreadySilent.java/1.1/Fri Oct 28 21:03:50 2022//
+/UnavailableFileException.java/1.3/Thu Oct 20 22:56:26 2022//
+/UnknownClientKeyException.java/1.2/Thu Oct 20 22:56:26 2022//
+/UnknownTerminalKeyException.java/1.2/Thu Oct 20 22:56:26 2022//
+/UnrecognizedEntryException.java/1.3/Thu Oct 20 22:56:26 2022//
+D
